@@ -1,0 +1,13 @@
+
+a {
+	display: inline;
+	padding-right: 25px;
+}
+
+
+
+a:hover {
+	background-color: grey;
+	color: green;
+}
+
