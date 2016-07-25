@@ -3,12 +3,13 @@ a {
 	display: inline;
 	padding: 10px;
 	text-decoration: none;
+	color: black;
 }
 
 
 
 a:hover {
-	background-color: lightgrey;
+	background-color: grey;
 	color: lightgreen;
 }
 
