@@ -1,13 +1,17 @@
 
 a {
 	display: inline;
-	padding-right: 25px;
+	padding: 10px;
+	text-decoration: none;
 }
 
 
 
 a:hover {
-	background-color: grey;
-	color: green;
+	background-color: lightgrey;
+	color: lightgreen;
 }
 
+a:active {
+	padding: 0 5px 0 5px;
+}
