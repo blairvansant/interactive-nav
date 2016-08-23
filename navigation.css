@@ -1,13 +1,18 @@
 
 a {
 	display: inline;
-	padding-right: 25px;
+	padding: 10px;
+	text-decoration: none;
+	color: black;
 }
 
 
 
 a:hover {
 	background-color: grey;
-	color: green;
+	color: orange;
 }
 
+a:active {
+	padding: 0 5px 0 5px;
+}
